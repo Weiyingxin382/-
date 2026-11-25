@@ -1,0 +1,29 @@
+# Python and IDE
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+.pytest_cache/
+.mypy_cache/
+
+# Local settings, logs, and temporary files
+.env
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*~
+/tmp/
+/temp/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.keras
+*.pkl
+*.joblib

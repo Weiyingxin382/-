@@ -1,0 +1,8 @@
+# Python 3.11.9; direct experiment dependencies
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.2
+
+# Pinned runtime dependencies for reproducibility
+joblib==1.4.2
+threadpoolctl==3.5.0
